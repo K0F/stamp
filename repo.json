@@ -1,0 +1,9 @@
+{
+  "Name": "stamp",
+  "Description": "A simple plugin to insert a timestamp at the cursor's position.",
+  "Author": "Kryštof Pešek",
+  "Version": "1.0.0",
+  "Repository": "https://github.com/k0f/stamp",
+  "Tags": ["timestamp", "utility", "productivity"],
+  "License": "GPL 3.0"
+}
